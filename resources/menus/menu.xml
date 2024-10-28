@@ -1,0 +1,17 @@
+<menus>
+    <menu id="MainMenu">
+        <menu-item id="Delete" label="@Strings.Delete" />
+        <menu-item id="n0" label="@Strings.n0" />
+        <menu-item id="n1" label="@Strings.n1" />
+        <menu-item id="n2" label="@Strings.n2" />
+        <menu-item id="n3" label="@Strings.n3" />
+        <menu-item id="n4" label="@Strings.n4" />
+        <menu-item id="n5" label="@Strings.n5" />
+        <menu-item id="n6" label="@Strings.n6" />
+        <menu-item id="n7" label="@Strings.n7" />
+        <menu-item id="n8" label="@Strings.n8" />
+        <menu-item id="n9" label="@Strings.n9" />
+        <menu-item id="Save" label="@Strings.Save" />
+        <menu-item id="Clear" label="@Strings.Clear" />
+    </menu>
+</menus>
